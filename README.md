@@ -1,2 +1,2 @@
 # Cybathlon
-Code and Documentation
+Code and Documentation and fun
